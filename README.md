@@ -19,7 +19,7 @@ Comes many features including:
 * Example usage in the included zip (Simple example of the script in action)
 * Comes with a simplistic css style (Just for fun)
 
-**Project Page:** http://www.firedartstudios.com/labs/tutis-login
+**Project Page:** http://www.firedartstudios.com/labs/tutis
 
 Installing
 =================================
